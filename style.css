@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
 /* Container holding the image and the text */
 .container {
   position: relative;
@@ -11,4 +12,6 @@
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 100px;
+  font-family: "Oswald";
+  font-weight: bold;
 }
