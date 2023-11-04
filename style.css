@@ -22,4 +22,9 @@ h1 {
     text-align: center;
     top: 50%;
     width: 100%;
+    color: white;
+}
+
+body {
+  color: 3A3B3D;
 }
